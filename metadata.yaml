@@ -1,16 +1,21 @@
 _repo: Tragedias_66023
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Salvatierra, Fernando Segundo Brieva
     gutenberg_agent_id: '53602'
     url: http://www.gutenberg.org/2009/agents/53602
+covers:
+- cover_type: archival
+  image_path: 66023-h/images/cover.jpg
 creator:
   author:
     agent_name: Esquilo
     gutenberg_agent_id: '53601'
     url: http://www.gutenberg.org/2009/agents/53601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66023#Tragedias
 gutenberg_issued: '2021-08-09'
 gutenberg_type: Text
 identifiers:
